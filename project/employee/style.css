@@ -1,0 +1,11 @@
+th{
+    text-transform: uppercase;
+    text-align: center;
+}
+tr{
+    text-align: center;
+    font-size: 18px;
+}
+nav a{
+    letter-spacing: 2px;
+}

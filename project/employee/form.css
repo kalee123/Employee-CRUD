@@ -1,0 +1,18 @@
+.form-container{
+    width: 650px;
+    margin: auto;
+}
+span,label{
+    font-size: 17px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+span{
+    padding-left: 5px;
+}
+button,h1,h3{
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 2px;
+    padding: 10px 0;
+}
